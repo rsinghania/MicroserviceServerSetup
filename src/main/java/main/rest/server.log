@@ -1,0 +1,29 @@
+11:48:30,407 ERROR [com.connecture.services.ruleservice.process.dsl.DSLShell] (pool-6-thread-1) Invalid input data structure: JSONObject["Product_Line"] is not a JSONArray.
+11:48:31,054 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
+11:48:31,055 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.gender found
+11:48:31,055 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
+11:48:31,055 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.gender found
+11:48:31,306 ERROR [com.connecture.services.ruleservice.process.dsl.DSLShell] (pool-6-thread-1) Invalid input data structure: JSONObject["Product_Line"] is not a JSONArray.
+11:48:31,408 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
+11:48:31,408 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.gender found
+11:48:31,408 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
+11:48:31,408 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.gender found
+11:48:31,503 ERROR [com.connecture.services.ruleservice.process.dsl.DSLShell] (pool-6-thread-1) Invalid input data structure: JSONObject["Product_Line"] is not a JSONArray.
+11:48:31,668 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
+11:48:31,668 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.gender found
+11:48:31,668 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
+11:48:31,668 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.gender found
+11:48:31,760 ERROR [com.connecture.services.ruleservice.process.dsl.DSLShell] (pool-6-thread-1) Invalid input data structure: JSONObject["Product_Line"] is not a JSONArray.
+11:48:31,867 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
+11:48:31,868 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.gender found
+11:48:31,868 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
+11:48:31,868 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.gender found
+11:48:31,974 ERROR [com.connecture.services.ruleservice.process.dsl.DSLShell] (pool-6-thread-1) Invalid input data structure: JSONObject["Product_Line"] is not a JSONArray.
+11:48:32,086 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
+11:48:32,144 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.gender found
+11:48:32,145 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
+11:48:32,145 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.gender found
+11:48:32,248 ERROR [com.connecture.services.ruleservice.process.dsl.DSLShell] (pool-6-thread-1) Invalid input data structure: JSONObject["Product_Line"] is not a JSONArray.
+11:48:32,343 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
+11:48:32,343 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.gender found
+11:48:32,343 ERROR [com.rwsol.express.components.ratemaintenance.process.RateAlgorithmProcess] (pool-6-thread-1) Input Validation Failure: Unexpected field Quote.plans.Household.Members.status found
