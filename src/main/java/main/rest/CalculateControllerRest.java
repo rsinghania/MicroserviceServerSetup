@@ -1,10 +1,10 @@
 package main.rest;
 
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import main.model.InputNumbers;
 
@@ -12,9 +12,12 @@ import main.model.InputNumbers;
 public class CalculateControllerRest
 {
 
-  @RequestMapping(value = "/addNumbers", method = RequestMethod.GET)
-  public Integer addEmployee(@ModelAttribute InputNumbers num, Model model)
+  @RequestMapping(value = "/addNumbers", method = RequestMethod.POST)
+  public @ResponseBody InputNumbers addEmployee(@RequestBody InputNumbers num)
   {
-    return num.getFirstNumber() + num.getSecondNumber();
+    int sum=num.getFirstNumber() + num.getSecondNumber();
+    InputNumbers inputNumber=new InputNumbers();
+    inputNumber.setSum(sum);
+    return inputNumber;
   }
 }
